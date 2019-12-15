@@ -1,0 +1,2 @@
+# basictypescript
+basic typescript
